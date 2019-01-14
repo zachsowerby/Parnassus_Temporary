@@ -8,7 +8,7 @@ Anything maintained in the Archive is to be published in CrossWorks, the digital
 A print edition, quarried from the Parnassus Archive, is to be published or not published at any time at the discretion of the Executive Board.
 #### Article II: Membership and Officer Positions
 ##### §1
-Membership in Parnassus shall be restricted neither to Classics majors nor Holy Cross students.
+Membership in Parnassus is restricted to Holy Cross students.
 ##### §2
 By virtue of their attendance, attendees of any given Executive Meeting are to be considered members of that meeting's Executive Board. Decisions concerning the future of Parnassus, provided that they do not contradict the Parnassus Constitution, are to be made by vote of the Executive Board. The Executive Board is responsible for the final approval of submissions for entry into the Archive and for the procedure and content of a publication. The Executive Board is also responsible for nominating by vote approved submissions to be considered for recognition by the Classics Department.
 ##### §3
