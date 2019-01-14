@@ -52,7 +52,6 @@ Submissions are to be restricted to neither Classics Majors nor Holy Cross stude
 Each year's first Executive Meeting of Parnassus is to be called by the Faculty Advisor. The procedure of calling subsequent Executive Meetings that year is to be determined by the Executive Board.
 ##### §2
 A publication of a print edition may be undertaken, by vote of the Executive Board, at any time. Nominated content is to be selected from the Parnassus Archive and its inclusion in the print edition shall be decided by vote of the Executive Board. The motion to publish a print edition may be proposed by any member of the Executive Board. A full proposal should include a list of nominations. The Executive Board may approve, approve with qualification, or reject any part or parts of the proposal.
-##### §3
 #### Article V: Constitutional Amendment
 ##### §1
 Constitutional amendment is to be considered valid only if approved by a two-thirds majority of the Executive Board and by the Faculty Advisor. Proposals for constitutional amendment may be brought by any member of the Executive Board.
