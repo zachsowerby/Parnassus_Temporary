@@ -82,7 +82,11 @@ After download, you may or may not have to set MiKTeX as an environment variable
 ### Formatting
 That's all well and good, but how does one specify formatting? Pandoc interprets the rich text aspects of Markdown in standard formatting ways which are alterable. How they are altered is different for different outputs.
 
-If the output is a Microsoft Word document, your best bet is probably generating the document and editing it in Word. For a PDF, your best bet is probably doing something similar. This means learning how to format a .latex document, which can then be typeset into a PDF. The CSS file (Cascading Style Sheet) is designed to integrate into HTML; a file written in CSS language can be specified during the Pandoc generation of your HTML.
+If the output is a Microsoft Word document, your best bet is probably generating the document and editing it in Word. The CSS file (Cascading Style Sheet) is designed to integrate into HTML; a file written in CSS language can be specified during the Pandoc generation of your HTML.
+
+Pandoc uses a template written in LaTeX when generating a PDF. (The `-V` command in the above code changes a variable in template, in that case the main font.) You can write your own template in LaTeX and specify it in the generation of the PDF. (This of course means you will not have to specify a font, as font is included as a variable in the template.) This means learning the LaTeX coding language (resources available online).
+
+To create a new template, you can run the code `pandoc -D latex > templateExample.latex`. After editing your .latex file, you can specify it in PDF generation with a command like `pandoc --pdf-engine=xelatex --template=templateExample.latex example.md -o example.pdf`.
 
 ## Downloads
 Ideally, all of these will soon be available on computers in the St. Isidore of Seville Computer Lab. All of these programs except for Alphabetum are free. I will try to get funding for a license for Alphabetum in the Lab.
