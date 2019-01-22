@@ -1,5 +1,5 @@
 # Parnassus Format Editor's Guide
-Last Edit: 11/17/19, Zach Sowerby
+Last Edit: 11/22/19, Zach Sowerby
 
 This document is to serve as a guide for Parnassus' Format Editor. It explains how to use Github, Git bash, a simple text editor, Markdown syntax, Pandoc, LaTeX, Alphabetum, and CSS to create and format works in the Parnassus database for publication.
 
