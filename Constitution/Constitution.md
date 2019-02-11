@@ -4,7 +4,7 @@
 
 ##### §1
 
-The name of this organization is to be **The Parnassus Journal of Antiquities** (henceforth referred to as simply **Parnassus**).
+The name of this organization is to be **The Parnassus Journal of Antiquity** (henceforth referred to as simply **Parnassus**).
 
 #### Article II: Purpose
 
