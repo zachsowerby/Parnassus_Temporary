@@ -1,4 +1,4 @@
-% Parnassus Constitution
+# Parnassus Constitution
 
 #### Article I: Name
 
@@ -32,7 +32,7 @@ Officer positions are to be issued by simple majority vote of the Executive Boar
 
 ##### §5
 
-A student may be a member of Parnassus while abroad; however he or she may not hold an officer's position.
+A student may be a member of Parnassus while abroad; however, he or she may not hold an officer's position while abroad.
 
 ##### §6
 
@@ -61,15 +61,15 @@ The Correspondence Editor shall be responsible for coordinating communication be
 
 ##### §10
 
-The Format Editor is responsible for formatting approved submissions in Markdown, as well as the generation of publication-specific versions of submissions.
+The Format Editor is responsible for formatting approved submissions, as well as the generation of publication-specific versions of submissions.
 
 ##### §11
 
-The Web Editor is responsible for maintaining the Archive of submissions, at different stages of approval, in the official Parnassus Github repository. The Web Editor is to be given write access, for the duration of his or her tenure, to the official Parnassus Github repository. The Web Editor is responsible for organizing meetings via, and is to be given access to for the duration of his or her tenure, the official Parnassus Journal e-mail for internal use. The Web Editor is also responsible for seeking out and utilizing alternative electronic publication options, and is to publish via those options in consultation with the Format Editor.
+The Web Editor is responsible for maintaining the Archive of submissions, at different stages of approval, in the official Parnassus Github repository. The Web Editor is to be given write access, for the duration of his or her tenure, to the official Parnassus Github repository. The Web Editor is also responsible for seeking out and utilizing alternative electronic publication options, and is to publish via those options in consultation with the Format Editor.
 
 ##### §12
 
-The Secretary is responsible for taking minutes of meetings and submitting to the Correspondence Editor meeting summaries to be distributed via the official Parnassus Journal e-mail account for internal use to the entirety of Parnassus membership. The Secretary is to be given, for the duration of his or her tenure, access to the official Parnassus Journal e-mail account for internal use. Attendance of the Secretary to Executive Meetings is mandatory.
+The Secretary is responsible for taking minutes of meetings and submitting distributing via the official Parnassus Journal e-mail account for internal use to the entirety of Parnassus membership. The Secretary is responsible for organizing meetings via the official Parnassus Journal e-mail for internal use. The Secretary is to be given, for the duration of his or her tenure, access to the official Parnassus Journal e-mail account for internal use. Attendance of the Secretary to Executive Meetings is mandatory.
 
 ##### §13
 
@@ -85,11 +85,15 @@ A candidate is qualified for office if he or she is a member of Parnassus.
 
 ##### §16
 
-Any officer's duties may be removed from a member of Parnassus by a majority vote of the Executive Board if, in the judgment of the Executive Board and the Faculty Advisor, said officer displays incapability of performing or wanton negligence of agreed-upon responsibilities.
+Any officer's duties may be removed from a member of Parnassus by a majority vote of the Executive Board if, in the judgment of the Executive Board and the Faculty Advisor, said officer displays incapacity of performing or wanton negligence of agreed-upon responsibilities.
 
 ##### §17
 
-A member may be expelled from Parnassus for impeding Parnassus' proceedings or violating the College's policies.
+A member may be expelled from Parnassus for impeding Parnassus' proceedings, repeatedly engaging in disrespectful, belligerent, or bullying behavior, or violating the College's policies. The Executive Board must first issue a written warning to the member by simple majority vote; for expulsion proceedings to continue, the member in question must continue to engage in problematic behavior despite the written warning. A vote of expulsion requires a two-week notice to all members of Parnassus, a two-thirds majority vote of the Executive Board, and the consent of the Faculty Advisor. The expelled party is in no way eligible for future participation or submission. The decision may be appealed to the Faculty Advisor; the expelled party may be reinstated to full Parnassus rights and privileges by a two-thirds majority vote of the Executive Board and the recommendation of the Faculty Advisor.
+
+##### §18
+
+If the continued safety of the members of Parnassus would be threatened by continued contact with another member, the Executive Board may bypass the written warning, with the consent of the Faculty Advisor, and proceed directly to expulsion procedures.
 
 #### Article IV: Submissions
 
@@ -109,7 +113,7 @@ Submissions are to be restricted to neither Classics Majors nor Holy Cross stude
 
 ##### §1
 
-Anything maintained in the Archive is to be published in CrossWorks, the digital publication service at the College of the Holy Cross.
+Anything maintained in the Archive is to be published in CrossWorks, the digital publication service at the College of the Holy Cross. Articles may be published on additional platforms.
 
 ##### §2
 
