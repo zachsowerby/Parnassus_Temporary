@@ -10,7 +10,7 @@ The name of this organization is to be **The Parnassus Journal of Antiquity** (h
 
 ##### §1
 
-The purpose of Parnassus is to maintain an archive of reviewed, high-quality submissions of scholarship and artwork concerning Greece, Rome, and the Ancient World.
+The purpose of Parnassus is to maintain an archive of reviewed, high-quality submissions of scholarly and creative responses concerning diverse aspects of the Ancient World.
 
 #### Article III: Membership and Officer Positions
 
@@ -20,7 +20,7 @@ Membership in Parnassus is restricted to Holy Cross students.
 
 ##### §2
 
-By virtue of their attendance, attendees of any given Executive Meeting are to be considered members of that meeting's Executive Board. Decisions concerning the future of Parnassus, provided that they do not contradict the Parnassus Constitution, are to be made by simple majority vote of the Executive Board. The Executive Board is responsible for the final approval of submissions for entry into the Archive and for the procedure and content of a publication. The Executive Board is also responsible for nominating by simple majority vote approved submissions to be considered for recognition by the Classics Department.
+By virtue of their attendance, attendees of any given Executive Meeting are to be considered members of that meeting's Executive Board. Decisions concerning the future of Parnassus, provided that they do not contradict the Parnassus Constitution, are to be made by simple majority vote of the Executive Board. The Executive Board is responsible for the final approval of submissions for entry into the Archive and for the procedure and content of a publication. The Executive Board is also responsible for nominating approved submissions by simple majority vote to be considered for recognition by the Classics Department.
 
 ##### §3
 
@@ -49,7 +49,7 @@ Responsibilities for positions ii-vi may be divided amongst multiple Co-Editors,
 
 ##### §7
 
-Submission Editors are responsible for editing submissions into a state as close to publication-worthy as possible by working one-on-one with the Authors. All editorial decisions must be made with the consent of the Author. The Submission Editor is responsible for ensuring that original authorship is not lost in the editorial process. A Submission Editor must recuse himself or herself from a vote of the Executive Board concerning the approval of a submission which he or she edited.
+Submission Editors are responsible for editing submissions into a state as close to publication-worthy as possible by working one-on-one with the Authors. All editorial decisions must be made with the consent of the Author. The Submission Editor is responsible for ensuring that original authorship is not lost in the editorial process. Submission Editors must recuse themselves from a vote of the Executive Board concerning the approval of a submissions which they edited.
 
 ##### §8
 
@@ -57,7 +57,7 @@ The Publicity Editor is responsible for crafting and carrying out publicity stra
 
 ##### §9
 
-The Correspondence Editor shall be responsible for coordinating communication between Submission Editors and Authors. This shall include connecting each Submission Editor with the Authors whose work he or she is to edit. The Correspondence Editor is responsible for keeping each Author updated on the status of his or her submission, as to whether it is pending approval, approved, digitally published, nominated for print publication, approved for print publication, nominated for departmental recognition, or approved for departmental recognition. The Correspondence Editor shall be sole given access, for the duration of his or her tenure, to the official Parnassus Journal e-mail account for external use, and is to have the responsibility to use it for all official Parnassus communications. The Correspondence Editor is barred from taking part in votes of the Executive Board which decide on the approved or unapproved status of a submission.
+The Correspondence Editor shall be responsible for coordinating communication between Submission Editors and Authors. This shall include connecting each Submission Editor with the Authors whose work they are to edit. The Correspondence Editor is responsible for keeping each Author updated on the status of submissions, as to whether it is pending approval, approved, digitally published, nominated for print publication, approved for print publication, nominated for departmental recognition, or approved for departmental recognition. The Correspondence Editor shall be sole given access, for the duration of the editor's tenure, to the official Parnassus Journal e-mail account for external use, and is to have the responsibility to use it for all official Parnassus communications. The Correspondence Editor is barred from taking part in votes of the Executive Board which decide on the approved or unapproved status of a submission.
 
 ##### §10
 
@@ -65,7 +65,7 @@ The Format Editor is responsible for formatting approved submissions, as well as
 
 ##### §11
 
-The Web Editor is responsible for maintaining the Archive of submissions, at different stages of approval, in the official Parnassus Github repository. The Web Editor is to be given write access, for the duration of his or her tenure, to the official Parnassus Github repository. The Web Editor is also responsible for seeking out and utilizing alternative electronic publication options, and is to publish via those options in consultation with the Format Editor.
+The Web Editor is responsible for maintaining the Archive of submissions, at different stages of approval, in the official Parnassus Github repository. The Web Editor is to be given write access, for the duration of the editor's tenure, to the official Parnassus Github repository. The Web Editor is also responsible for seeking out and utilizing alternative electronic publication options, and is to publish via those options in consultation with the Format Editor.
 
 ##### §12
 
@@ -73,7 +73,7 @@ The Secretary is responsible for taking minutes of meetings and submitting distr
 
 ##### §13
 
-Any officer position for which attendance of Executive Meetings is mandatory may appoint, for any given Executive Meeting, a proxy to fulfill his or her responsibilities in his or her stead.
+Any officer position for which attendance of Executive Meetings is mandatory may appoint, for any given Executive Meeting.
 
 ##### §14
 
@@ -99,13 +99,9 @@ If the continued safety of the members of Parnassus would be threatened by conti
 
 ##### §1
 
-Submissions are to concern as a primary topic Ancient Civilization, focused upon but not restricted to the Ancient Mediterranean. Potential sub-topics may include, but are not limited to, art, culture, religion, mythology, history, historiography, paleography, archaeology, papyrology, manuscript studies, geography, musicology, philosophy, philology, linguistics, literary analysis, and reception. Art submissions, such as poetry composition, painting, or photography, are also to be accepted. Insightful and original submissions are to be encouraged.
-
-##### §2
-
 Approved submissions are to be of a high standard of quality. Only exceptional submissions are to be considered for departmental recognition.
 
-##### §3
+##### §2
 
 Submissions are to be restricted to neither Classics Majors nor Holy Cross students. However, undergraduate submissions are to be especially encouraged.
 
